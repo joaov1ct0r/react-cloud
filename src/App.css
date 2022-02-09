@@ -25,3 +25,7 @@ nav ul li {
     text-align: center;
     width: 100%;
 }
+
+nav ul li a {
+    text-decoration: none;
+}
