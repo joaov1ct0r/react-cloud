@@ -18,6 +18,10 @@ function App() {
                     <li>
                         <a href="#work">Work</a>
                     </li>
+
+                    <li>
+                        <a href="#info">Info</a>
+                    </li>
                 </ul>
             </nav>
         </div>
