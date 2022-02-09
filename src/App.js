@@ -6,7 +6,11 @@ function App() {
             <nav>
                 <a href="http://localhost:3000">YOUR</a>
 
-                <ul></ul>
+                <ul>
+                    <li>
+                        <a href="#home">HOME</a>
+                    </li>
+                </ul>
             </nav>
         </div>
     );
