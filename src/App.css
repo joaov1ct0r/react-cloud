@@ -89,3 +89,11 @@ header button {
     border-radius: 15px;
     border: 0;
 }
+
+header button:hover {
+    color: rgb(96, 0, 128);
+    background-color: black;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.7s;
+}
