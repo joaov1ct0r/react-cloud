@@ -8,7 +8,11 @@ function App() {
 
                 <ul>
                     <li>
-                        <a href="#home">HOME</a>
+                        <a href="#home">Home</a>
+                    </li>
+
+                    <li>
+                        <a href="#home">About us</a>
                     </li>
                 </ul>
             </nav>
