@@ -7,3 +7,9 @@
 body {
     font-family: sans-serif;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
