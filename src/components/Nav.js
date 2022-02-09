@@ -21,7 +21,7 @@ function Nav() {
                 </li>
 
                 <li>
-                    <a href="#start">Get Started</a>
+                    <button type="submit">Get Started</button>
                 </li>
             </ul>
         </nav>
