@@ -49,6 +49,14 @@ nav ul li button {
     border-radius: 10px;
 }
 
+nav ul li button:hover {
+    background-color: black;
+    color: rgb(96, 0, 128);
+    font-size: 15px;
+    transition: 0.7s;
+    cursor: pointer;
+}
+
 nav > a {
     margin-left: 35px;
     text-decoration: none;
