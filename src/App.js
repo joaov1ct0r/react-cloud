@@ -22,6 +22,10 @@ function App() {
                     <li>
                         <a href="#info">Info</a>
                     </li>
+
+                    <li>
+                        <a href="#start">Get Started</a>
+                    </li>
                 </ul>
             </nav>
         </div>
