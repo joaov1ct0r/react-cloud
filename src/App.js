@@ -6,7 +6,9 @@ function App() {
     return (
         <div className="App">
             <Nav></Nav>
-            <header></header>
+            <header>
+                <h2>Cloud Computing</h2>
+            </header>
         </div>
     );
 }
