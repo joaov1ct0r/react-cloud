@@ -63,3 +63,12 @@ header p {
     width: 50%;
     margin-bottom: 2%;
 }
+
+header button {
+    width: 10%;
+    height: 40px;
+    background-color: rgb(96, 0, 128);
+    color: white;
+    border-radius: 15px;
+    border: 0;
+}
