@@ -56,3 +56,9 @@ header h2 {
     font-size: 40px;
     color: rgb(96, 0, 128);
 }
+
+header p {
+    color: rgb(94, 93, 93);
+    width: 50%;
+    margin-bottom: 5%;
+}
