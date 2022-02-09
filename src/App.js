@@ -13,6 +13,7 @@ function App() {
                     Mauris elit mi, fringilla ac congue sed, imperdiet sed enim.
                     Quisque luctus eget ex ut commodo. Nullam non velit sodales.
                 </p>
+                <button type="submit">About us</button>
             </header>
         </div>
     );
