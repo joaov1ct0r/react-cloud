@@ -20,3 +20,8 @@ nav ul {
     flex-direction: row;
     align-items: center;
 }
+
+nav ul li {
+    text-align: center;
+    width: 100%;
+}
