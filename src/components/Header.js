@@ -1,7 +1,8 @@
 function Header() {
     return (
         <header>
-            <h2>Cloud Computing</h2>
+            <h2>Cloud</h2>
+            <h2>Computing</h2>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
                 elit mi, fringilla ac congue sed, imperdiet sed enim. Quisque
