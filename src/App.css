@@ -34,6 +34,12 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    color: rgb(96, 0, 128);
+    font-size: 15px;
+    transition: 0.7s;
+}
+
 nav > a {
     margin-left: 35px;
     text-decoration: none;
