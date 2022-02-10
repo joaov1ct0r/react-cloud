@@ -9,6 +9,10 @@ function App() {
         <div className="App">
             <Nav></Nav>
             <Header></Header>
+            <img
+                src={require('./assets/images/cloud.jpg')}
+                alt="cloud system"
+            />
         </div>
     );
 }
