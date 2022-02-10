@@ -12,6 +12,8 @@ function Header() {
                     alt="cloud system"
                 />
             </div>
+
+            <div className="about"></div>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
                 elit mi, fringilla ac congue sed, imperdiet sed enim. Quisque
