@@ -1,9 +1,10 @@
 function Header() {
     return (
         <header>
-            <div className="h2-container"></div>
-            <h2>Cloud</h2>
-            <h2>Computing</h2>
+            <div className="h2-container">
+                <h2>Cloud</h2>
+                <h2>Computing</h2>
+            </div>
 
             <div className="img-container">
                 <img
