@@ -6,13 +6,6 @@ function Header() {
                 <h2>Computing</h2>
             </div>
 
-            <div className="img-container">
-                <img
-                    src={require('../assets/images/cloud.jpg')}
-                    alt="cloud system"
-                />
-            </div>
-
             <div className="about">
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
