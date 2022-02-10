@@ -83,6 +83,7 @@ header p {
 }
 
 header button {
+    margin: 1% 0 1% 5%;
     width: 10%;
     height: 40px;
     background-color: rgb(96, 0, 128);
