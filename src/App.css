@@ -74,11 +74,11 @@ header .h2-container h2 {
 }
 
 header .about {
-    margin: 1% 0 1% 5%;
-    margin-bottom: 2%;
+    margin: 1% 0 2% 5%;
 }
 
 header .about p {
+    margin-bottom: 2%;
     color: rgb(94, 93, 93);
     width: 50%;
 }
