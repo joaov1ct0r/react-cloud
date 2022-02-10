@@ -65,15 +65,14 @@ nav > a {
 }
 
 header {
-    display: inline-block;
-    margin: 5%;
+    display: inline;
 }
 
 header h2 {
+    margin: 1% 0 1% 5%;
     word-break: keep-all;
     font-size: 40px;
     color: rgb(96, 0, 128);
-    margin-bottom: 1%;
 }
 
 header p {
@@ -101,6 +100,10 @@ header button:hover {
 
 .img-container {
     width: 20%;
-    margin-left: 30%;
+    margin-left: 60%;
     border: 2px solid black;
+}
+
+.img-container img {
+    width: 100%;
 }
