@@ -69,7 +69,6 @@ header .h2-container {
 }
 
 header .h2-container h2 {
-    word-break: keep-all;
     font-size: 40px;
     color: rgb(96, 0, 128);
 }
@@ -79,8 +78,9 @@ header .about {
     margin-bottom: 2%;
 }
 
-header p {
+header .about p {
     color: rgb(94, 93, 93);
+    width: 50%;
 }
 
 header button {
