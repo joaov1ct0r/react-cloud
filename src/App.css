@@ -65,11 +65,10 @@ nav > a {
 }
 
 header .h2-container {
-    display: inline;
+    margin-left: 5%;
 }
 
 header .h2-container h2 {
-    margin-left: 5%;
     word-break: keep-all;
     font-size: 40px;
     color: rgb(96, 0, 128);
