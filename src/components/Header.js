@@ -9,6 +9,13 @@ function Header() {
                 luctus eget ex ut commodo. Nullam non velit sodales.
             </p>
             <button type="submit">About us</button>
+
+            <div className="img-container">
+                <img
+                    src={require('./assets/images/cloud.jpg')}
+                    alt="cloud system"
+                />
+            </div>
         </header>
     );
 }
