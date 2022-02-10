@@ -74,11 +74,13 @@ header .h2-container h2 {
     color: rgb(96, 0, 128);
 }
 
-header p {
+header .about {
     margin: 1% 0 1% 5%;
-    color: rgb(94, 93, 93);
-    width: 50%;
     margin-bottom: 2%;
+}
+
+header p {
+    color: rgb(94, 93, 93);
 }
 
 header button {
