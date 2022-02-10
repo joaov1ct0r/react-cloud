@@ -64,6 +64,10 @@ nav > a {
     font-size: 28px;
 }
 
+header {
+    margin: 2%;
+}
+
 header .h2-container {
     margin-left: 5%;
 }
