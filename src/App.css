@@ -68,6 +68,11 @@ header {
     display: inline;
 }
 
+header .h2-container {
+    display: inline;
+    margin: 1% 0 1% 5%;
+}
+
 header h2 {
     margin: 1% 0 1% 5%;
     word-break: keep-all;
@@ -107,7 +112,5 @@ header .img-container {
 }
 
 header .img-container img {
-    position: relative;
-    top: -15px;
     width: 100%;
 }
