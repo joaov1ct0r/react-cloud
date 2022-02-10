@@ -33,3 +33,5 @@
 <p>APOS ISSO A PAGINA SERA ABERTA</p>
 
 <h2>Picture</h2>
+
+![cloud-landpage](https://user-images.githubusercontent.com/79015823/153514060-176d52ea-b4d7-41d7-b7c7-1f93b7332549.jpg)
