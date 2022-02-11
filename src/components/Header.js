@@ -6,6 +6,7 @@ function Header() {
     return (
         <header>
             <H2Container></H2Container>
+            <About></About>
         </header>
     );
 }
