@@ -118,4 +118,9 @@ header .img-container img {
     nav {
         justify-content: center;
     }
+
+    nav ul li {
+        padding: 5px;
+        width: 50%;
+    }
 }
