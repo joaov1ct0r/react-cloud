@@ -113,3 +113,9 @@ header .img-container {
 header .img-container img {
     width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    nav {
+        justify-content: center;
+    }
+}
