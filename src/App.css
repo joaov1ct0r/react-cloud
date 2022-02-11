@@ -104,16 +104,6 @@ header button:hover {
     transition: 0.7s;
 }
 
-header .img-container {
-    width: 25%;
-    margin-left: 60%;
-    border: 2px solid black;
-}
-
-header .img-container img {
-    width: 100%;
-}
-
 @media screen and (max-width: 768px) {
     nav {
         justify-content: center;
