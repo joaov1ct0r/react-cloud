@@ -132,4 +132,9 @@ header .img-container img {
         height: 40px;
         font-size: 15px;
     }
+
+    nav > a {
+        margin-left: 10px;
+        font-size: 24px;
+    }
 }
