@@ -3,6 +3,7 @@ import H2Container from './H2Container';
 function Header() {
     return (
         <header>
+            <H2Container></H2Container>
             <div className="about">
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
